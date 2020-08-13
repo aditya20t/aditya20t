@@ -14,4 +14,4 @@
 
 
 
-![visitors](https://profile-counter.glitch.me/adad20/count.svg&align=center)
+![visitors](https://profile-counter.glitch.me/adad20/count.svg?align=center)
