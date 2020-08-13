@@ -1,6 +1,7 @@
-### Hi there 👋
+<img src="https://cutekawaiiresources.files.wordpress.com/2018/08/original.gif" align="center">
 
-### Good to have you here on my profile. You are Welcomed!!
+<h1 color="red">Good to have you here on my profile. You are Welcomed!!</h1>
+
 [![Linkedin Badge](https://img.shields.io/badge/-AdityaTomar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adad20/)](https://www.linkedin.com/in/adad20/) 
 [![Gmail Badge](https://img.shields.io/badge/-aditya001tomar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditya001tomar@gmail.com)](mailto:aditya001tomar@gmail.com)
 
