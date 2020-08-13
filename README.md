@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" alt="GIF" align="center" width="40%">
+<img src="https://media2.giphy.com/media/q0YjVPeiOdoK4/source.gif" alt="GIF" align="center" width="100%">
 
 <h3 color="red">Good to have you here!!</h3>
 
