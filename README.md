@@ -1,4 +1,4 @@
-<img src="https://images.squarespace-cdn.com/content/v1/5b72117a55b02c64155d6f34/1561862767947-KLJPUKFB6LU5HGO5B0V9/ke17ZwdGBToddI8pDm48kMFHXa5e5FPP8h_S7SEG3zkUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc7RJ69OCcws7hdSQvVDpgTBaLMZtpl5kvVbG87jFAlN2w4IuBii6ERl65KXfmbrEu/Hello2.gif?format=1500w" alt="GIF" align="center" width="50%">
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" alt="GIF" align="center" width="40%">
 
 <h3 color="red">Good to have you here!!</h3>
 
@@ -10,6 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adad20&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://www.pngkey.com/png/full/87-874598_transparent-dbz-dragon-ball-z-vol-3-by.png" align="center" width="30%">
+<img src="https://surat.ertir.com/NtIV1wRg9zbjKJTZwJ.gif" align="right" width="30%">
 
 ![visitors](https://profile-counter.glitch.me/adad20/count.svg)
