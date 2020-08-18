@@ -1,6 +1,6 @@
 <h3 color="red">Good to have you here!!</h3>
 
-**About myself**
+**About myself**<br>
 I am Aditya Tomar, currently pursuing my bachelors from LNCT Bhopal in *ELectrical and Electronics Engineering*. One of the fancy line about me 🤭 *Electrical engineer by degree and software engineer by passion*. <br>
 I am very much interested in open-source development and have contributed to some of the open-source organisations still a long way to go. I also love to do competitive programming. <br>
 I am experienced with MERN stack and also worked in the app development domain using flutter but didn't explored it much.<br>
