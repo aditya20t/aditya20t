@@ -1,6 +1,4 @@
-<h2 color="red">👋 Good to have you here!!</h2>
-
-<hr>
+<h2 align=center>👋 Good to have you here!!</h2>
 
 🌱 **About myself**<br>
 
