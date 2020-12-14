@@ -20,7 +20,7 @@
 ### 📶 Stats:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=adad20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adad20&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://coolguy.website/aesthetic/assets/tulips.gif" align="left" width="40%"> <img src="https://surat.ertir.com/NtIV1wRg9zbjKJTZwJ.gif" align="right" width="30%">
+<img src="https://surat.ertir.com/NtIV1wRg9zbjKJTZwJ.gif" align="right" width="30%">
 
 
 
