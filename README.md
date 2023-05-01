@@ -2,13 +2,11 @@
 
 🌱 **About myself**<br>
 
-✔️ I am **Aditya Tomar**, currently pursuing my bachelors from LNCT Bhopal in *ELectrical and Electronics Engineering*. One of the fancy line about me 🤭 *Electrical engineer by degree and software engineer by passion*. <br>
+✔️ I am **Aditya Tomar**, I have completed my bachelors from LNCT Bhopal in *Electrical and Electronics Engineering*.
 
-✔️ I am very much interested in open-source development and have contributed to some of the open-source organisations still a long way to go. I also love to do competitive programming. <br>
+✔️ I am very much interested in open-source development and have contributed to some of the open-source organisations still a long way to go. I also love to do competitive programming.
 
-✔️ I have experience in MERN stack and also in the app development domain using flutter but didn't explored it much.<br>
-
-✔️ I have been the participant of various open-source events such as HacktoberFest'19, GSSoC'20 and have been mentored some of them. I have also volunteered as the JavaScript mentor in AnitaB.org 
+✔️ I have given GATE CSE twice and achieved **AIR 720 (in 2022) and AIR 170 (in 2023)** out of ~76K+ candidates.
 
 <br>
 
