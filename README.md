@@ -2,7 +2,7 @@
 
 🌱 **About myself**<br>
 
-✔️ I am **Aditya Tomar**, I have completed my bachelors from LNCT Bhopal in *Electrical and Electronics Engineering*.
+✔️ I am **Aditya Tomar**, I have completed my bachelors from LNCT Bhopal in *Electrical and Electronics Engineering*. Currently I'm pursuing MS by Research in CSE from IIT Bombay.
 
 ✔️ I am very much interested in open-source development and have contributed to some of the open-source organisations still a long way to go. I also love to do competitive programming.
 
