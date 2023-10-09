@@ -4,7 +4,7 @@
 
 ✔️ I am **Aditya Tomar**, I have completed my bachelors from LNCT Bhopal in *Electrical and Electronics Engineering*. Currently I'm pursuing MS by Research in CSE from IIT Bombay.
 
-✔️ I am very much interested in open-source development and have contributed to some of the open-source organisations still a long way to go. I also love to do competitive programming.
+✔️ I am currently exploring Machine Learning, Natural Language Processing and related fields. I am also interested in open-source development and have contributed to some of the open-source organisations, still a long way to go. I also love to do competitive programming.
 
 ✔️ I have given GATE CSE twice and achieved **AIR 720 (in 2022) and AIR 170 (in 2023)** out of ~76K+ candidates.
 
