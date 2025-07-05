@@ -12,6 +12,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AdityaTomar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya20t/)](https://www.linkedin.com/in/aditya20t/) 
 [![Gmail Badge](https://img.shields.io/badge/-aditya001tomar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditya001tomar@gmail.com)](mailto:aditya001tomar@gmail.com)
+[![Google_Scholar_Badge](https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square)](https://scholar.google.com/citations?user=83aelMAAAAAJ&hl=en)
 
 <hr>
 
